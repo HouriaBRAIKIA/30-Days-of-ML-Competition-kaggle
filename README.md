@@ -1,1 +1,0 @@
-# 30-Days-of-ML-Competition-kaggle
